@@ -38,6 +38,9 @@ module.exports = {
     placeholderColor: {
       primary: "#6C6F72",
     },
+    backgroundImage: {
+      'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
+    }
   },
   plugins: [],
 };
